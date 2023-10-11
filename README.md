@@ -1,3 +1,7 @@
+### Website Preview:
+
+![Untitled design (2)](https://github.com/Hemanga-Rana/TodoList/assets/95037269/a329efe4-3b34-4496-9927-f89ad8ca61cc)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
